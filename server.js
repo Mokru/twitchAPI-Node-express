@@ -6,7 +6,7 @@ var http = require('http'),
 
 
 var twitch = new twitchAPI({
-    clientId: 'ptuhe77jcqonxnfm98294sv0amjglt5',
+    clientId: 'id',
     clientSecret: 'secret',
     redirectUri: 'http://localhost:3000/callback',
     scopes: ['user_read']
